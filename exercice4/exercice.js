@@ -1,3 +1,3 @@
-$("selector").event(function(){
-    $(this).hide();
+$("input").keydown(function(){
+    $("input").hide();
 });
